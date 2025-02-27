@@ -123,7 +123,7 @@ struct bmi3_sens_config config[2];
 const struct bmi3_int_pin_config int_config =
 {
 		.pin_type = BMI3_INT1,
-		.int_latch = BMI3_INT_LATCH_EN,
+		.int_latch = BMI3_INT_LATCH_DISABLE,
 		.pin_cfg[0].lvl = BMI3_INT_ACTIVE_HIGH,
 		.pin_cfg[0].od = BMI3_INT_PUSH_PULL,
 		.pin_cfg[0].output_en = BMI3_INT_OUTPUT_ENABLE,

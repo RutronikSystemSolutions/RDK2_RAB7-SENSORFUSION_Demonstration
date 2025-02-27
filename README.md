@@ -2,7 +2,7 @@
 
 This code example reads the data from all the sensors on the RAB7-SENSORFUSION adapter board.
 
- <img src="images/SensorFusion_RDK2.jpg" style="zoom:20%;" />
+ <img src="images/SensorFusion_RDK2.jpg" style="zoom:10%;" />
 
 A list of the sensors and their addresses are given below:
 
