@@ -25,7 +25,7 @@ U8			BMM350					0x14
 3. Program the board.
 4. Open a terminal program and select the KitProg3 COM port. Set the serial port parameters to 8N1 and 115200 baud.
 
-The data of all the sensors of RAB7-SENSORFUSION is printed out to the KitProg3 UART port.
+The data from all the sensors of RAB7-SENSORFUSION is printed out to the KitProg3 UART port.
 
 <img src="images/results.png" style="zoom:100%;" />
 
@@ -33,7 +33,7 @@ The data of all the sensors of RAB7-SENSORFUSION is printed out to the KitProg3 
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.2**]
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v2025.4.0** [built with **v3.2**]
 - RAB7-SENSORFUSION Arduino Adapter Board.
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
